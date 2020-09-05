@@ -1,0 +1,2 @@
+# EKS
+nginx deployment code
